@@ -7,3 +7,5 @@
 4. This is file was for git new-developer-branch puspose
 
 5. This is file fifth commit purpose
+
+6. This is file for 6th commit
